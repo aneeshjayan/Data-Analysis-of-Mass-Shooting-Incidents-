@@ -2,13 +2,6 @@
 
 This project explores the complex dynamics behind mass shootings in the United States, aiming to identify the factors that influence their frequency, severity, and societal impact. It incorporates data-driven methods and advanced statistical models to generate insights for policymakers, researchers, and law enforcement agencies.
 
-## Team Members
-
-- **Adarsh Jadhav** - ajadha39@asu.edu
-- **Aneesh Jayan Prabhu** - aprabh25@asu.edu
-- **Nikita Kumari** - nkumari5@asu.edu
-- **Nishanth Gajjala** - ngajjal4@asu.edu
-
 ## Supervisor
 Dr. Rong Pan
 
